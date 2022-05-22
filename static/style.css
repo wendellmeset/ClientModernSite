@@ -121,7 +121,7 @@ a.btnHref {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: 100vw;
+    /* width: 100vw; */
     background-color: rgba(30, 30, 30, 0.7);
 }
 .showcaseDisplay {
